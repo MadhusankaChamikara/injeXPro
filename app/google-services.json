@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5072978533",
+    "project_id": "injex-pro-hub",
+    "storage_bucket": "injex-pro-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5072978533:android:3e0a69643ad0a83711fc8c",
+        "android_client_info": {
+          "package_name": "com.example.injexpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvuBz-y7K36-XUfx_ZRYMIfQoUapUXwfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
