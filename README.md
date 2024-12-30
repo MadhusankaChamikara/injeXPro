@@ -22,4 +22,4 @@ This repository contains the following:
 ## Getting Started  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/injeXPro.git
+   git clone https://github.com/MadhusankaChamikara/injeXPro.git
